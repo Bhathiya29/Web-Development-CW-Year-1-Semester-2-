@@ -1,4 +1,4 @@
-﻿## Web-Development-CW-Year-1-Semester-2-
+﻿## Web Development CW Year 1 Semester-2
  
  • This repository contains Course Work files for my first year second semester Web Development module 
  
